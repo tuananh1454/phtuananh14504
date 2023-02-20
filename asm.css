@@ -99,6 +99,14 @@ body{
     font-size: 11px; 
 }
 
+.dangky>span{
+    color:#9e9e9e;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
 .row3>span:hover{
     color: orange;
     transition: color .5s;
@@ -110,6 +118,16 @@ body{
 }
 
 .chamsoc>span:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+.dangnhap>span:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+.dangky>span:hover{
     color: orange;
     transition: color .5s;
 }
@@ -706,7 +724,7 @@ body{
 .maunenxam{
     background-color: #ededed;
     position: relative;
-    height: 1800px;
+    height: 2100px;
     width: 1550px;
     bottom: 3087px;
     right: 8px;
@@ -717,7 +735,7 @@ body{
 /*================================= Danhh rieng cho ban =================================*/
 .tongquat{
     position: relative;
-    bottom: 1200px;
+    bottom: 1500px;
     left: 18px;
 }
 
@@ -2103,11 +2121,11 @@ body{
 }
 
 
-/* ================================= footer #e2e2e2 ================================= */
+/* ================================= footer ================================= */
 
 .thekhungvoucher{
     position: relative;
-    bottom: 650px;
+    bottom: 965px;
 }
 
 .kengang{
@@ -2280,4 +2298,328 @@ body{
     font-weight: 300;
     color: #0f136d;
     list-style: none;
+}
+
+
+
+
+/* ================================= footer =================================*/
+.footer{
+    position: relative;
+    bottom: 390px;
+}
+
+
+
+
+.footer>.thongtinlazada>.bangchuthu1{
+    position: relative;
+    bottom: 12270px;
+    left: 181px;
+    font-size: 14px;
+    color: #323232;
+}
+
+.footer>.thongtinlazada>.bangchuthu1a1{
+    position: relative;
+    bottom: 12265px;
+    left: 180px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu1a2{
+    position: relative;
+    bottom: 12250px;
+    left: 180px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu1a3{
+    position: relative;
+    bottom: 12582px;
+    left: 475px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu1a4{
+    position: relative;
+    bottom: 12570px;
+    left: 475px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+
+
+.footer>.thongtinlazada>.bangchuthu2{
+    position: relative;
+    bottom: 12560px;
+    left: 475px;
+    font-size: 14px;
+    color: #323232;
+}
+
+.footer>.thongtinlazada>.bangchuthu2a1{
+    position: relative;
+    bottom: 12556px;
+    left: 475px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+
+
+.footer>.thongtinlazada>.bangchuthu3{
+    position: relative;
+    bottom: 12885px;
+    left: 740px;
+    font-size: 14px;
+    color: #323232;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a1{
+    position: relative;
+    bottom: 12870px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a2{
+    position: relative;
+    bottom: 12870px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a3{
+    position: relative;
+    bottom: 12855px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a4{
+    position: relative;
+    bottom: 12855px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a5{
+    position: relative;
+    bottom: 12840px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a6{
+    position: relative;
+    bottom: 12840px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a7{
+    position: relative;
+    bottom: 12820px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a8{
+    position: relative;
+    bottom: 12820px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a9{
+    position: relative;
+    bottom: 12790px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a10{
+    position: relative;
+    bottom: 12790px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a11{
+    position: relative;
+    bottom: 12770px;
+    left: 740px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a12{
+    position: relative;
+    bottom: 12770px;
+    left: 740px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a13{
+    position: relative;
+    bottom: 13365px;
+    left: 1010px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a14{
+    position: relative;
+    bottom: 13365px;
+    left: 1010px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a15{
+    position: relative;
+    bottom: 13350px;
+    left: 1010px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a16{
+    position: relative;
+    bottom: 13350px;
+    left: 1010px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a17{
+    position: relative;
+    bottom: 13340px;
+    left: 1010px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a18{
+    position: relative;
+    bottom: 13340px;
+    left: 1010px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a19{
+    position: relative;
+    bottom: 13330px;
+    left: 1010px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a20{
+    position: relative;
+    bottom: 13330px;
+    left: 1010px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a21{
+    position: relative;
+    bottom: 13320px;
+    left: 1010px;
+    font-size: 12px;
+    color: #323232;
+    list-style: none;
+    line-height: 16px;
+}
+
+.footer>.thongtinlazada>.bangchuthu3a22{
+    position: relative;
+    bottom: 13320px;
+    left: 1010px;
+    font-size: 12px;
+    color: rgb(136,136,136);
+    list-style: none;
+    line-height: 16px;
+}
+
+
+
+
+
+.footer>.thongtinlazada>.footerlazada2023{
+    position: relative;
+    bottom: 13040px;
+    left: 1150px;
+    list-style: none;
+    line-height: 16px;
+    font-size: 20px;
+    color: #606060;
 }
