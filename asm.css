@@ -1,0 +1,2283 @@
+element.style {
+    background: #a00809;
+    position: absolute;
+}
+
+body{
+    font-family: Roboto-Regular,'Helvetica Neue',Helvetica,Tahoma,Arial,Sans-serif;
+}
+
+/*================================= Banner =================================*/
+.card-platform-campaign-banner {
+    margin: 0 auto!important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 99999999;
+    padding-top: 0!important;
+}
+
+.card-platform-campaign-banner-content {
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    width: 1188px;
+}
+
+.card-platform-campaign-banner-link {
+    display: block;
+    width: 100%;
+    height: 80px;
+}
+
+.card-platform-campaign-banner-link .image {
+    width: 100%;
+    height: 100%;
+}
+
+.card-banner-slider img, .hp-mod-card img, .img-wrap {
+    background-image: url(//lzd-img-global.slatic.net/g/tps/tfs/TB1wkpOf5qAXuNjy1XdXXaYcVXa-720-720.png_200x200.jpg);
+    background-size: contain;
+    line-height: 2;
+    text-indent: -9999px;
+    color: transparent!important;
+    background-position: 50% 50%;
+    text-align: center;
+    background-color: white;
+    background-repeat: no-repeat;
+    display: block;
+}
+
+/*================================= Header Content =================================*/
+.row3{
+    margin: 78px;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding: 3px;
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.row3>a{
+    color:#080d47;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
+.row3>span{
+    color:#9e9e9e;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
+.banhang>span{
+    color:#080d47;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
+.chamsoc>span{
+    color:#9e9e9e;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
+.dangnhap>span{
+    color:#9e9e9e;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 40px ;
+    font-size: 11px; 
+}
+
+.row3>span:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+.banhang>span:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+.chamsoc>span:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+.row3>a:hover{
+    color: orange;
+    transition: color .5s;
+}
+
+
+
+/*================================= Logo Bar =================================*/
+.logo{
+    margin-top: -60px;
+    margin-left: 170px;
+}
+
+.box{
+    position: relative;
+    top: -50px;
+    left: 360px;
+    box-sizing: border-box;
+    width: 650px;
+    height: 45px;
+    padding: 16px 14px;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0;
+    color: gray;
+    border: none;
+    outline: none;
+    background: #eff0f5;
+    box-shadow: none;
+    border-radius: 2px;
+}
+
+.box>nav>input{
+    position: relative;
+    top: -16px;
+    left: -14px;
+    box-sizing: border-box;
+    width: 650px;
+    height: 45px;
+    padding: 16px 14px;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0;
+    color: black;
+    border: none;
+    outline: none;
+    background: #eff0f5;
+    box-shadow: none;
+    border-radius: 2px;
+    
+}
+
+.boxfind{
+    position: relative;
+    top: -95px;
+    left: 1000px;
+    box-sizing: border-box;
+    width: 47px;
+    height: 45px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 1;
+    letter-spacing: 0;
+    border: none;
+    outline: none;
+    background: rgb(255, 111, 0);
+    box-shadow: none;
+    border-radius: 2px;
+}
+
+.xedaysieuthi{
+    position: relative;
+    top: -125px;
+    right: 0;
+    left: 1080px;
+    font-size: 25px;
+}
+
+.masale{
+    position: relative;
+    top: -168px;
+    left: 1160px;
+    font-size: 20px;
+}
+
+/*================================= Item Card Banner =================================*/
+.itemcard{
+    background: rgb(162, 3, 7);
+    position: relative;
+    height: 340px;
+    width: 1520px;
+    bottom: 140px;
+    right: 10px;
+    
+}
+
+.itemcard>img{
+    position: relative;
+    vertical-align:middle;
+    height: 340px;
+    width: 1000px;
+    margin-left: 200px;
+    top: 0px;
+    left: 165px;
+}
+
+
+.thevisa{
+    background: rgb(162, 3, 7);
+    position: relative;
+    height: 340px;
+    width: 306px;
+    top: -480px;
+    left: 1050px;
+}
+
+.thevisa>img{
+    position: relative;
+    width: 280px;
+    height: 320px;
+    margin-left: 200px;
+    top: 10px;
+    right: 190px;
+}
+ 
+.listmenu{
+    background: white;
+    position: relative;
+    height: 340px;
+    width: 200px;
+    top: -821px;
+    left: 160px;
+    border-top: 1px solid rgba(170, 170, 170, 0.443);
+    border-bottom: 1px solid rgba(170, 170, 170, 0.443);
+    box-shadow: 0px 1px 10px rgba(170, 170, 170, 0.443), 0px -1px 10px rgba(170, 170, 170, 0.443);
+    text-decoration: none;
+}
+
+.listmenu>ul>li{
+    list-style-type: none;
+    margin: -20px;   
+}
+
+.listmenu>ul>li>a{
+    text-decoration: none;   
+}
+
+.listmenu>ul>li>a>span{
+    position: relative;
+    top: 10px;
+    right: 10px;
+    font-size: 12px; 
+    color: #757575;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    width: 200px;
+    line-height: 27px;
+}
+
+.listmenu>ul>li>a>span:hover{
+    color: orange;
+}
+
+
+/*================================= mau background =================================*/ 
+
+.thegiamgia{
+    position: relative;
+    bottom: 800px;
+    right: 210px; 
+}
+
+.thelazmall{
+    position: relative;
+    bottom: 1318px;
+    left: 158px;
+    box-sizing: border-box;
+    width: 280px;
+    height: 36px;
+    font-size: 18px;
+    background: #eff0f5;
+    border-radius: 20px;  
+}
+
+
+
+.thelazmall>span{
+    position: relative;
+    bottom: 7px;
+    left: 46px;
+}
+
+.thelazmall>img{
+    position: relative;
+    bottom: -3px;
+    right: 62px;
+    height: 31px;
+    width: 31px;
+    border-radius: 100%; 
+}
+
+
+
+
+.thecodesale{
+    position: relative;
+    bottom: 1354px;
+    left: 460px;
+    box-sizing: border-box;
+    width: 280px;
+    height: 36px;
+    padding: 8px 50px;
+    font-size: 18px;
+    background: white;
+    border-radius: 20px;
+}
+
+.thecodesale>span{
+    position: relative;
+    bottom: 14px;
+    left: -8px;
+}
+
+.thecodesale>img{
+    position: relative;
+    bottom: 5px;
+    right: 156px;
+    height: 31px;
+    width: 31px;
+    border-radius: 100%; 
+}
+
+
+
+.thevoucher{
+    position: relative;
+    bottom: 1390px;
+    left: 760px;
+    box-sizing: border-box;
+    width: 280px;
+    height: 36px;
+    padding: 8px 50px;
+    font-size: 18px;
+    background: white;
+    border-radius: 20px;
+}
+
+.thevoucher>span{
+    position: relative;
+    bottom: 0px;
+    left: -7px;
+}
+
+.thevoucher>img{
+    position: relative;
+    bottom: 26px;
+    right: 43px;
+    height: 31px;
+    width: 31px;
+    border-radius: 100%; 
+}
+
+
+
+
+
+.thelazglobal{
+    position: relative;
+    bottom: 1426px;
+    left: 1060px;
+    box-sizing: border-box;
+    width: 280px;
+    height: 36px;
+    padding: 8px 50px;
+    font-size: 18px;
+    background: white;
+    border-radius: 20px; 
+}
+
+.thelazglobal>span{
+    position: relative;
+    bottom: 15px;
+    left: -1px;
+}
+
+.thelazglobal>img{
+    position: relative;
+    bottom: 6px;
+    right: 127px;
+    height: 32px;
+    width: 32px;
+    border-radius: 100%; 
+}
+
+/*================================= lazmall =================================*/
+
+.boxx1{
+    margin-left: 13px;
+}
+
+.lazmall{
+    position: relative;
+    bottom: 1390px;
+    left: 160px;
+    font-size: 22px;
+    color: #424242;
+}
+
+.anh1>img{
+    position: relative;
+    width: 180px;
+    height: 190px;
+    bottom: 1380px;
+    left: 160px;
+}
+
+.hop1{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 1384px;
+    left: 159px;
+
+}
+
+.anhlogo1>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 1490px;
+    left: 216px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh1>a{
+    position: relative;
+    bottom: 1490px;
+    left: 200px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh1>span{
+    position: relative;
+    bottom: 1472px;
+    left: 104px;
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+.anh2>img{
+    position: relative;
+    width: 180px;
+    height: 191px;
+    bottom: 1732px;
+    left: 352px;
+}
+
+.hop2{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 1736px;
+    left: 352px;
+    box-shadow: 0px -35px 50px rgb(170 170 170 / 30%);
+}
+
+.anhlogo2>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 1842px;
+    left: 412px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh2>a{
+    position: relative;
+    bottom: 1842px;
+    left: 382px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh2>span{
+    position: relative;
+    bottom: 1823px;
+    left: 265px;
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+.anh3>img{
+    position: relative;
+    width: 180px;
+    height: 191px;
+    bottom: 2085px;
+    left: 544px;
+}
+
+.hop3{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 2089px;
+    left: 544px;
+    box-shadow: 0px -35px 50px rgb(170 170 170 / 30%);
+}
+
+.anhlogo3>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 2194px;
+    left: 605px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh3>a{
+    position: relative;
+    bottom: 2194px;
+    left: 575px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh3>span{
+    position: relative;
+    bottom: 2176px;
+    left: 455px;
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+.anh4>img{
+    position: relative;
+    width: 180px;
+    height: 191px;
+    bottom: 2438px;
+    left: 737px;
+}
+
+.hop4{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 2442px;
+    left: 737px;
+}
+
+.anhlogo4>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 2546px;
+    left: 796px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh4>a{
+    position: relative;
+    bottom: 2546px;
+    left: 748px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh4>span{
+    position: relative;
+    bottom: 2529px;
+    left: 596px;
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+.anh5>img{
+    position: relative;
+    width: 180px;
+    height: 191px;
+    bottom: 2790px;
+    left: 930px;
+}
+
+.hop5{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 2794px;
+    left: 930px;
+    box-shadow: 0px -35px 50px rgb(170 170 170 / 30%);
+}
+
+.anhlogo5>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 2899px;
+    left: 990px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh5>a{
+    position: relative;
+    bottom: 2899px;
+    left: 1000px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh5>span{
+    position: relative;
+    bottom: 2881px;
+    left: 959px;
+    font-size: 12px;
+    color: gray;
+}
+
+
+
+
+.anh6>img{
+    position: relative;
+    width: 180px;
+    height: 191px;
+    bottom: 3143px;
+    left: 1132px;
+}
+
+.hop6{
+    position: relative;
+    height: 80px;
+    width: 180px;
+    background-color: white;
+    bottom: 3147px;
+    left: 1132px;
+}
+
+.anhlogo6>img{
+    position: relative;
+    height: 55px;
+    width: 55px;
+    bottom: 3251px;
+    left: 1194px;
+    box-shadow: 0px 0px 2px gray;
+}
+
+.anh6>a{
+    position: relative;
+    bottom: 3251px;
+    left: 1198px;
+    font-size: 14px;
+    color: #212121;
+    text-decoration: none;
+}
+
+.anh6>span{
+    position: relative;
+    bottom: 3233px;
+    left: 1149px;
+    font-size: 12px;
+    color: gray;
+}
+
+/*================================= mau nen xam =================================*/
+
+.maunenxam{
+    background-color: #ededed;
+    position: relative;
+    height: 1800px;
+    width: 1550px;
+    bottom: 3087px;
+    right: 8px;
+    
+}
+
+
+/*================================= Danhh rieng cho ban =================================*/
+.tongquat{
+    position: relative;
+    bottom: 1200px;
+    left: 18px;
+}
+
+.danhriengchoban>a{
+    position: relative;
+    bottom: 3770px;
+    left: 160px;
+    font-size: 22px;
+    color: #424242;
+    text-decoration: none;
+}
+
+.anhmenu1>img{
+    width: 180px;
+    height: 190px;
+
+    position: relative;
+    bottom: 3760px;
+    left: 160px;
+}
+
+.hopmenu1{
+    position: relative;
+    height: 130px;
+    width: 180px;
+    background-color: white;
+    bottom: 3764px;
+    left: 160px;
+}
+
+.chumenu1>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 3875px;
+    left: 166px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu1{
+    position: relative;
+    bottom: 3870px;
+    left: 165px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc1>span{
+    position: relative;
+    bottom: 3867px;
+    left: 167px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram>span{
+    position: relative;
+    bottom: 3885px;
+    left: 218px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu1{
+    position: relative;
+    bottom: 3880px;
+    left: 167px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu1>a{
+    margin: -1px;
+}
+
+.votedanhgia1>span{
+    position: relative;
+    bottom: 3896px;
+    left: 236px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu2>img{
+    width: 180px;
+    height: 190px;
+
+    position: relative;
+    bottom: 4208px;
+    left: 350px;
+}
+
+.hopmenu2{
+    position: relative;
+    height: 130px;
+    width: 180px;
+    background-color: white;
+    bottom: 4212px;
+    left: 350px;
+}
+
+.chumenu2>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 4323px;
+    left: 358px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu2{
+    position: relative;
+    bottom: 4317px;
+    left: 358px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc2>span{
+    position: relative;
+    bottom: 4316px;
+    left: 357px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram2>span{
+    position: relative;
+    bottom: 4333px;
+    left: 415px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu2{
+    position: relative;
+    bottom: 4328px;
+    left: 358px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu2>a{
+    margin: -1px;
+}
+
+.votedanhgia2>span{
+    position: relative;
+    bottom: 4343px;
+    left: 427px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+.anhmenu3>img{
+    width: 180px;
+    height: 190px;
+
+    position: relative;
+    bottom: 4656px;
+    left: 540px;
+}
+
+.hopmenu3{
+    position: relative;
+    height: 130px;
+    width: 180px;
+    background-color: white;
+    bottom: 4660px;
+    left: 540px;
+}
+
+.chumenu3>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 4771px;
+    left: 545px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu3{
+    position: relative;
+    bottom: 4765px;
+    left: 546px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc3>span{
+    position: relative;
+    bottom: 4765px;
+    left: 546px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram3>span{
+    position: relative;
+    bottom: 4783px;
+    left: 597px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu3{
+    position: relative;
+    bottom: 4775px;
+    left: 547px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu3>a{
+    margin: -1px;
+}
+
+.votedanhgia3>span{
+    position: relative;
+    bottom: 4791px;
+    left: 617px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+.anhmenu4>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 5104px;
+    left: 730px;
+}
+
+.hopmenu4{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 5108px;
+    left: 730px;
+}
+
+.chumenu4>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 5219px;
+    left: 735px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu4{
+    position: relative;
+    bottom: 5215px;
+    left: 735px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc4>span{
+    position: relative;
+    bottom: 5215px;
+    left: 735px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram4>span{
+    position: relative;
+    bottom: 5233px;
+    left: 786px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu4{
+    position: relative;
+    bottom: 5223px;
+    left: 736px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu4>a{
+    margin: -1px;
+}
+
+.votedanhgia4>span{
+    position: relative;
+    bottom: 5239px;
+    left: 805px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu5>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 5553px;
+    left: 921px;
+}
+
+.hopmenu5{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 5557px;
+    left: 921px;
+}
+
+.chumenu5>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 5667px;
+    left: 927px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu5{
+    position: relative;
+    bottom: 5663px;
+    left: 927px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc5>span{
+    position: relative;
+    bottom: 5663px;
+    left: 927px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram5>span{
+    position: relative;
+    bottom: 5680px;
+    left: 985px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu5{
+    position: relative;
+    bottom: 5671px;
+    left: 928px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu5>a{
+    margin: -1px;
+}
+
+.votedanhgia5>span{
+    position: relative;
+    bottom: 5687px;
+    left: 998px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu6>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 6002px;
+    left: 1113px;
+}
+
+.hopmenu6{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 6006px;
+    left: 1113px;
+}
+
+.chumenu6>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 6114px;
+    left: 1121px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu6{
+    position: relative;
+    bottom: 6114px;
+    left: 1121px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc6>span{
+    position: relative;
+    bottom: 6111px;
+    left: 1121px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram6>span{
+    position: relative;
+    bottom: 6128px;
+    left: 1180px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu6{
+    position: relative;
+    bottom: 6120px;
+    left: 1122px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu6>a{
+    margin: -1px;
+}
+
+.votedanhgia6>span{
+    position: relative;
+    bottom: 6137px;
+    left: 1192px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu7>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 6110px;
+    left: 160px;
+}
+
+.hopmenu7{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 6113px;
+    left: 160px;
+}
+
+.chumenu7>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 6230px;
+    left: 170px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu7{
+    position: relative;
+    bottom: 6220px;
+    left: 170px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc7>span{
+    position: relative;
+    bottom: 6220px;
+    left: 170px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram7>span{
+    position: relative;
+    bottom: 6239px;
+    left: 222px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu7{
+    position: relative;
+    bottom: 6231px;
+    left: 169px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu7>a{
+    margin: -1px;
+}
+
+.votedanhgia7>span{
+    position: relative;
+    bottom: 6246px;
+    left: 237px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu8>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 6558px;
+    left: 350px;
+}
+
+.hopmenu8{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 6562px;
+    left: 350px;
+}
+
+.chumenu8>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 6678px;
+    left: 357px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu8{
+    position: relative;
+    bottom: 6668px;
+    left: 358px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc8>span{
+    position: relative;
+    bottom: 6668px;
+    left: 358px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram8>span{
+    position: relative;
+    bottom: 6686px;
+    left: 410px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu8{
+    position: relative;
+    bottom: 6679px;
+    left: 358px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu8>a{
+    margin: -1px;
+}
+
+.votedanhgia8>span{
+    position: relative;
+    bottom: 6695px;
+    left: 427px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu9>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 7007px;
+    left: 540px;
+}
+
+.hopmenu9{
+    position: relative;
+    height: 131px;
+    width: 180px;
+    background-color: white;
+    bottom: 7011px;
+    left: 540px;
+}
+
+.chumenu9>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 7127px;
+    left: 545px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu9{
+    position: relative;
+    bottom: 7116px;
+    left: 546px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc9>span{
+    position: relative;
+    bottom: 7117px;
+    left: 546px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram9>span{
+    position: relative;
+    bottom: 7135px;
+    left: 599px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu9{
+    position: relative;
+    bottom: 7127px;
+    left: 546px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu9>a{
+    margin: -1px;
+}
+
+.votedanhgia9>span{
+    position: relative;
+    bottom: 7142px;
+    left: 616px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu10>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 7456px;
+    left: 730px;
+}
+
+.hopmenu10{
+    position: relative;
+    height: 132px;
+    width: 180px;
+    background-color: white;
+    bottom: 7461px;
+    left: 730px;
+}
+
+.chumenu10>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 7576px;
+    left: 737px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu10{
+    position: relative;
+    bottom: 7566px;
+    left: 737px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc10>span{
+    position: relative;
+    bottom: 7566px;
+    left: 737px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram10>span{
+    position: relative;
+    bottom: 7584px;
+    left: 795px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu10{
+    position: relative;
+    bottom: 7576px;
+    left: 738px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu10>a{
+    margin: -1px;
+}
+
+.votedanhgia10>span{
+    position: relative;
+    bottom: 7591px;
+    left: 808px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+
+.anhmenu11>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 7906px;
+    left: 921px;
+}
+
+.hopmenu11{
+    position: relative;
+    height: 132px;
+    width: 180px;
+    background-color: white;
+    bottom: 7910px;
+    left: 921px;
+}
+
+.chumenu11>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 8024px;
+    left: 928px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu11{
+    position: relative;
+    bottom: 8016px;
+    left: 928px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc11>span{
+    position: relative;
+    bottom: 8016px;
+    left: 928px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram11>span{
+    position: relative;
+    bottom: 8034px;
+    left: 980px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu11{
+    position: relative;
+    bottom: 8025px;
+    left: 928px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu11>a{
+    margin: -1px;
+}
+
+.votedanhgia11>span{
+    position: relative;
+    bottom: 8040px;
+    left: 997px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu12>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 8356px;
+    left: 1113px;
+}
+
+.hopmenu12{
+    position: relative;
+    height: 132px;
+    width: 180px;
+    background-color: white;
+    bottom: 8360px;
+    left: 1113px;
+}
+
+.chumenu12>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 8474px;
+    left: 1120px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu12{
+    position: relative;
+    bottom: 8466px;
+    left: 1120px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc12>span{
+    position: relative;
+    bottom: 8466px;
+    left: 1120px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram12>span{
+    position: relative;
+    bottom: 8483px;
+    left: 1180px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu12{
+    position: relative;
+    bottom: 8474px;
+    left: 1122px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu12>a{
+    margin: -1px;
+}
+
+.votedanhgia12>span{
+    position: relative;
+    bottom: 8490px;
+    left: 1192px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+
+
+.anhmenu13>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 8465px;
+    left: 160px;
+
+    border: 2px solid rgb(201, 197, 197);
+    bottom: 8465px;
+    left: 160px;
+}
+
+.hopmenu13{
+    position: relative;
+    height: 132px;
+    width: 182px;
+    background-color: white;
+    bottom: 8469px;
+    left: 160px;
+}
+
+.chumenu13>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 8585px;
+    left: 172px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu13{
+    position: relative;
+    bottom: 8575px;
+    left: 170px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc13>span{
+    position: relative;
+    bottom: 8575px;
+    left: 170px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram13>span{
+    position: relative;
+    bottom: 8592px;
+    left: 231px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu13{
+    position: relative;
+    bottom: 8585px;
+    left: 170px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu13>a{
+    margin: -1px;
+}
+
+.votedanhgia13>span{
+    position: relative;
+    bottom: 8600px;
+    left: 240px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu14>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 8918px;
+    left: 350px;
+}
+
+.hopmenu14{
+    position: relative;
+    height: 135px;
+    width: 180px;
+    background-color: white;
+    bottom: 8922px;
+    left: 350px;
+}
+
+.chumenu14>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 9038px;
+    left: 355px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu14{
+    position: relative;
+    bottom: 9027px;
+    left: 360px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc14>span{
+    position: relative;
+    bottom: 9027px;
+    left: 360px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram14>span{
+    position: relative;
+    bottom: 9045px;
+    left: 420px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu14{
+    position: relative;
+    bottom: 9038px;
+    left: 360px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu14>a{
+    margin: -1px;
+}
+
+.votedanhgia14>span{
+    position: relative;
+    bottom: 9053px;
+    left: 431px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu15>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 9371px;
+    left: 540px;
+}
+
+.hopmenu15{
+    position: relative;
+    height: 135px;
+    width: 180px;
+    background-color: white;
+    bottom: 9375px;
+    left: 540px;
+}
+
+.chumenu15>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 9490px;
+    left: 544px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu15{
+    position: relative;
+    bottom: 9480px;
+    left: 548px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc15>span{
+    position: relative;
+    bottom: 9480px;
+    left: 548px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram15>span{
+    position: relative;
+    bottom: 9499px;
+    left: 609px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu15{
+    position: relative;
+    bottom: 9490px;
+    left: 549px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu15>a{
+    margin: -1px;
+}
+
+.votedanhgia15>span{
+    position: relative;
+    bottom: 9506px;
+    left: 619px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+.anhmenu16>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 9823px;
+    left: 730px;
+}
+
+.hopmenu16{
+    position: relative;
+    height: 135px;
+    width: 180px;
+    background-color: white;
+    bottom: 9827px;
+    left: 730px;
+}
+
+.chumenu16>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 9942px;
+    left: 732px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu16{
+    position: relative;
+    bottom: 9934px;
+    left: 737px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc16>span{
+    position: relative;
+    bottom: 9934px;
+    left: 737px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram16>span{
+    position: relative;
+    bottom: 9952px;
+    left: 800px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu16{
+    position: relative;
+    bottom: 9943px;
+    left: 738px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu16>a{
+    margin: -1px;
+}
+
+.votedanhgia16>span{
+    position: relative;
+    bottom: 9958px;
+    left: 807px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+.anhmenu17>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 10276px;
+    left: 921px;
+}
+
+.hopmenu17{
+    position: relative;
+    height: 135px;
+    width: 180px;
+    background-color: white;
+    bottom: 10279px;
+    left: 921px;
+}
+
+.chumenu17>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 10394px;
+    left: 924px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu17{
+    position: relative;
+    bottom: 10387px;
+    left: 924px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc17>span{
+    position: relative;
+    bottom: 10387px;
+    left: 927px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram17>span{
+    position: relative;
+    bottom: 10405px;
+    left: 980px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu17{
+    position: relative;
+    bottom: 10397px;
+    left: 929px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu17>a{
+    margin: -1px;
+}
+
+.votedanhgia17>span{
+    position: relative;
+    bottom: 10413px;
+    left: 998px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+
+
+
+
+.anhmenu18>img{
+    width: 180px;
+    height: 190px;
+    position: relative;
+    bottom: 10729px;
+    left: 1113px;
+}
+
+.hopmenu18{
+    position: relative;
+    height: 136px;
+    width: 180px;
+    background-color: white;
+    bottom: 10733px;
+    left: 1113px;
+}
+
+.chumenu18>span{
+    text-decoration: none;
+    position: relative;
+    bottom: 10848px;
+    left: 1127px;
+    font-size: 14px;
+    color: #212121;
+}
+
+.giatienmenu18{
+    position: relative;
+    bottom: 10840px;
+    left: 1127px;
+    font-size: 18px;
+    color: #f57224;
+}
+
+.giagoc18>span{
+    position: relative;
+    bottom: 10840px;
+    left: 1127px;
+    font-size: 12px;
+    color: #9e9e9e;
+    text-decoration: line-through;
+}
+
+.giagiamphantram18>span{
+    position: relative;
+    bottom: 10858px;
+    left: 1187px;
+    font-size: 12px;
+    color: black;
+}
+
+.danhgiamenu18{
+    position: relative;
+    bottom: 10851px;
+    left: 1127px;
+    font-size: 11px;
+    line-height: 10px;
+}
+
+.danhgiamenu18>a{
+    margin: -1px;
+}
+
+.votedanhgia18>span{
+    position: relative;
+    bottom: 10867px;
+    left: 1197px;
+    font-size: 11px;
+    line-height: 10px;
+    color: #9e9e9e;
+}
+
+
+/* ================================= footer #e2e2e2 ================================= */
+
+.thekhungvoucher{
+    position: relative;
+    bottom: 650px;
+}
+
+.kengang{
+    border-top: 1px solid #c0c0c0;
+    position: relative;
+    width: 1133px;
+    bottom: 11333px;
+    left: 181px;
+}
+
+.theuudai>img{
+    position: relative;
+    bottom: 11298px;
+    left: 181px;
+    width: 24%;
+}
+
+.thehoantien>img{
+    position: relative;
+    bottom: 11391px;
+    left: 566px;
+    width: 24%;
+}
+
+.themienphi>img{
+    position: relative;
+    bottom: 11485px;
+    left: 954px;
+    width: 24%;
+}
+
+
+
+
+
+.lienhe>.ketnoilazada{
+    position: relative;
+    bottom: 11430px;
+    left: 181px; 
+    font-size: 15px;
+    text-decoration: none;
+    color: #0f136d;
+}
+
+.lienhe>.thongtinlienhe>.connectli{
+    font-size: 12px;
+    line-height: 17px;
+    list-style: none;
+    color: #0f136d;
+}
+
+.lienhe>.thongtinlienhe{
+    position: relative;
+    bottom: 11418px;
+    left: 183px;
+}
+
+
+
+
+
+.lienhe>.lazadavietnam{
+    position: relative;
+    bottom: 11551px;
+    left: 469px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #0f136d;
+}
+
+.lienhe>.all_list_lazada>.tatcadanhmuclazada{
+    font-size: 12px;
+    line-height: 17px;
+    list-style: none;
+    color: #0f136d;
+}
+
+.lienhe>.all_list_lazada{
+    position: relative;
+    bottom: 11539px;
+    left: 470px;
+}
+
+
+
+
+.lienhe>.logoapplazada{
+    position: relative;
+    bottom: 11730px;
+    left: 770px;
+}
+
+.lienhe>.taiapplazada{
+    position: relative;
+    bottom: 11777px;
+    left: 830px;
+}
+
+.lienhe>.taiapplazada>.taitrendt{
+    font-size: 16px;
+    font-weight: 300;
+    color: #f36f36;
+    list-style: none;
+}
+
+.lienhe>.taiapplazada>.taitrendtmaukhac{
+    font-size: 16px;
+    font-weight: 300;
+    color: #0f136d;
+    list-style: none;
+}
+
+
+
+
+.lienhe>.bamvaoapp>.trenappstore{
+    width: 130px;
+    height: 42px;
+    position: relative;
+    bottom: 11840px;
+    left: 1060px;
+}
+
+.lienhe>.bamvaoapp>.trenandroid{
+    width: 135px;
+    height: 42px;
+    position: relative;
+    bottom: 11840px;
+    left: 1065px;
+}
+
+.lienhe>.bamvaoapp>.trengallery{
+    width: 136px;
+    height: 47px;
+    position: relative;
+    bottom: 11788px;
+    left: 784px;
+}
+
+
+
+
+.lienhe>.congty{
+    position: relative;
+    bottom: 11777px;
+    left: 770px;
+    font-size: 12px;
+}
+
+
+.lienhe>.congty>.ctyTNHH{
+    font-weight: 300;
+    color: #0f136d;
+    list-style: none;
+}
+
+.lienhe>.congty>.giaydangky{
+    font-weight: 300;
+    color: #0f136d;
+    list-style: none;
+}
+
+.lienhe>.congty>.coquancap{
+    font-weight: 300;
+    color: #0f136d;
+    list-style: none;
+}
+
+.lienhe>.congty>.diachidangki{
+    font-weight: 300;
+    color: #0f136d;
+    list-style: none;
+}
